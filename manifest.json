@@ -1,9 +1,9 @@
 {
-    "version":  "0.3.18",
-    "releaseDate":  "2026-09-03T10:48:35Z",
-    "mandatory":  false,
-    "packageType":  "patch",
-    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.18-windows-x64.zip",
-    "sha256":  "19954d0da86900cce6877cc5d8cfe92e23b853426979a31b35fcab2ec72fa57a",
-    "releaseNotes":  "Real HTTP production Origin compatibility and home instance switching."
+  "version": "0.3.20",
+  "releaseDate": "2026-09-03T12:18:29Z",
+  "mandatory": false,
+  "packageType": "patch",
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.20-windows-x64.zip",
+  "sha256": "d1cad781de767d6a1db2a022cb859d116de1018236248560b06e94e36e4adb84",
+  "releaseNotes": "Server-generated user-bound CODE login and real HTTP game download/install support."
 }
