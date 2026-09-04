@@ -1,9 +1,9 @@
 {
-  "version": "0.3.33",
-  "releaseDate": "2026-09-04T09:15:44Z",
+  "version": "0.3.32",
+  "releaseDate": "2026-09-04T09:05:44Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.33-windows-x64.zip",
-  "sha256": "8f7a4366e69c352f48e9aa585e48dc1107f27ba21ac40f250b3438b8f34d68ab",
-  "releaseNotes": "Launch now resolves the installed depot from the client game libraries before selecting the configured or missing executable."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.32-windows-x64.zip",
+  "sha256": "a9a63698a0c674c83ec837240a519a97676e9b55bac8690b1ad14422d13a4d59",
+  "releaseNotes": "Fixed the client version display and synchronized the update checker with the packaged client version."
 }
