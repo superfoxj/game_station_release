@@ -1,9 +1,9 @@
 {
-  "version": "0.3.26",
-  "releaseDate": "2026-09-04T06:14:40Z",
+  "version": "0.3.29",
+  "releaseDate": "2026-09-04T06:49:45Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.26-windows-x64.zip",
-  "sha256": "03a8671665198c165d891d38a78ccf5797e49848b7215a17abc9908d2367357d",
-  "releaseNotes": "Fix client update version detection and keep the PCWIN release version synchronized."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.29-windows-x64.zip",
+  "sha256": "a02b79c773110e11ac2dd17a8c04342054bf8fa7240d2408d1b7a1049bbde8c7",
+  "releaseNotes": "Separate executable directory and executable file fields; support ./ as the installed depot root."
 }
