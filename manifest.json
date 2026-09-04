@@ -1,9 +1,9 @@
 {
-  "version": "0.3.41",
-  "releaseDate": "2026-09-04T14:03:12Z",
+  "version": "0.3.42",
+  "releaseDate": "2026-09-04T17:28:08Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.41-windows-x64.zip",
-  "sha256": "1bcf4d34923822b08b937213ae4439c167c04eddb5483ee20fd6c61d98b2a735",
-  "releaseNotes": "Added tool Install once and Run with game templates."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.42-windows-x64.zip",
+  "sha256": "f27fc1f4acf7bd510d55c3f4a45a00e4b38f359d3ad204e92e362e2c5d0f7e6c",
+  "releaseNotes": "Added Windows startup launch option in Settings."
 }
