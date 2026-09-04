@@ -1,9 +1,9 @@
 {
-  "version": "0.3.35",
-  "releaseDate": "2026-09-04T10:12:08Z",
+  "version": "0.3.36",
+  "releaseDate": "2026-09-04T10:29:51Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.35-windows-x64.zip",
-  "sha256": "caf3b0905374f60ce2317f046a1a264d2190b60e98edf8b14168a06579b12e2e",
-  "releaseNotes": "Use named library instances and choose the library only when installing; normalize launch chooser paths."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.36-windows-x64.zip",
+  "sha256": "385aab8584b4c82b70ab57f9b1b2ed879cd2b487f41fb197e62c8644f8229f93",
+  "releaseNotes": "Show PLAYING while the launched game process is running and return to Launch after it exits."
 }
