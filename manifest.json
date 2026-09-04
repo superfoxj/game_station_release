@@ -1,9 +1,9 @@
 {
-  "version": "0.3.29",
-  "releaseDate": "2026-09-04T06:49:45Z",
+  "version": "0.3.31",
+  "releaseDate": "2026-09-04T08:44:47Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.29-windows-x64.zip",
-  "sha256": "a02b79c773110e11ac2dd17a8c04342054bf8fa7240d2408d1b7a1049bbde8c7",
-  "releaseNotes": "Separate executable directory and executable file fields; support ./ as the installed depot root."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.31-windows-x64.zip",
+  "sha256": "55d721e30365084cfa8b8527a2874ecfb31493a72d678ec19199d5552cfa90b1",
+  "releaseNotes": "Added multiple game libraries, install/delete state, missing executable selection, and editable launch templates."
 }
