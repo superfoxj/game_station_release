@@ -1,9 +1,9 @@
 {
-  "version": "0.3.25",
-  "releaseDate": "2026-09-04T06:06:47Z",
+  "version": "0.3.26",
+  "releaseDate": "2026-09-04T06:14:40Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.25-windows-x64.zip",
-  "sha256": "e859376bc8ea4448a72df68ac7d389f7561d1c8659a5c05dcc6915a5b5d9ba30",
-  "releaseNotes": "Launch templates and depot-based game/tool installation."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.26-windows-x64.zip",
+  "sha256": "03a8671665198c165d891d38a78ccf5797e49848b7215a17abc9908d2367357d",
+  "releaseNotes": "Fix client update version detection and keep the PCWIN release version synchronized."
 }
