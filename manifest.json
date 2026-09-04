@@ -1,9 +1,9 @@
 {
-  "version": "0.3.32",
-  "releaseDate": "2026-09-04T09:05:44Z",
+  "version": "0.3.34",
+  "releaseDate": "2026-09-04T09:42:29Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.32-windows-x64.zip",
-  "sha256": "a9a63698a0c674c83ec837240a519a97676e9b55bac8690b1ad14422d13a4d59",
-  "releaseNotes": "Fixed the client version display and synchronized the update checker with the packaged client version."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.34-windows-x64.zip",
+  "sha256": "f825fcc6cc961c133fadffb3327d1bd26a78e65e1a0a219b08571031c1249b66",
+  "releaseNotes": "Moved library locations into Settings and preserved server configuration when restoring authentication."
 }
