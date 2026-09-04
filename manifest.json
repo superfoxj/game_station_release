@@ -1,9 +1,9 @@
 {
-  "version": "0.3.37",
-  "releaseDate": "2026-09-04T10:46:10Z",
+  "version": "0.3.38",
+  "releaseDate": "2026-09-04T11:19:56Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.37-windows-x64.zip",
-  "sha256": "8b792ff301804fabbc5c2cc3587939035fe08935ea25d399e3b0d3996fe69eec",
-  "releaseNotes": "Fix launch lookup by mapping the installed library path back to its named library instance."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.38-windows-x64.zip",
+  "sha256": "3e7cead3afaed8e223dd60115bab68cb54aa1b5f80a64b321c9c68a3fe04a832",
+  "releaseNotes": "Remember selected launch executable and arguments; add right-click game settings and keep the main UI to Install or Launch."
 }
