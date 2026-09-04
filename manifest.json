@@ -1,9 +1,9 @@
 {
-  "version": "0.3.39",
-  "releaseDate": "2026-09-04T11:47:58Z",
+  "version": "0.3.40",
+  "releaseDate": "2026-09-04T12:03:26Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.39-windows-x64.zip",
-  "sha256": "cff258867597782243e926ab6f4e01a7436ddeff9fe51fbc38ad1db352aa78a9",
-  "releaseNotes": "PCWIN 0.3.39 release."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.40-windows-x64.zip",
+  "sha256": "4fbfe864b37bb7180ba0e42165a6f283810001f0d29c94723806a30ff6f7c6a1",
+  "releaseNotes": "Force fresh GitHub manifest checks so online updates do not report stale versions."
 }
