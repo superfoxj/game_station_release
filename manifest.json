@@ -1,9 +1,9 @@
 {
-  "version": "0.3.45",
-  "releaseDate": "2026-09-05T06:44:01Z",
+  "version": "0.3.46",
+  "releaseDate": "2026-09-05T07:11:50Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.45-windows-x64.zip",
-  "sha256": "bf562ce68c3438a5c9e82913121e201adf777fba8682daa52c7ba49c3f86f152",
-  "releaseNotes": "Game cards now use cover-only layout with hover screenshot carousel and game details. Added server-side multi-screenshot, multi-video presentation settings and per-user playtime tracking."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.46-windows-x64.zip",
+  "sha256": "005cfcd40ecf3df6a45a077edf694eea1c7ed0cf732c33f9e94cbb2e1d998ce2",
+  "releaseNotes": "Fix server-hosted cover, background, logo, screenshot and video paths in the PCWIN client."
 }
