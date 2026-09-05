@@ -1,9 +1,9 @@
 {
-  "version": "0.3.52",
-  "releaseDate": "2026-09-05T09:51:16Z",
+  "version": "0.3.53",
+  "releaseDate": "2026-09-05T12:00:00Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.52-windows-x64.zip",
-  "sha256": "140067d7fa1a9075ede8fabc5091c18471c788805eda2b489e33cd9cd8b14c8b",
-  "releaseNotes": "Add Steam-style enlarged screenshot and video carousel, plus tool reinstall and delete actions."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.53-windows-x64.zip",
+  "sha256": "72ed555cf720503c5bbdbc818f5fbff6895f4ecbcca842f3626172e66ed6aefd",
+  "releaseNotes": "Fix browser media configuration saves and refresh cached client images after server media updates."
 }
