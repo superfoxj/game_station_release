@@ -4,6 +4,6 @@
   "mandatory": false,
   "packageType": "patch",
   "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.53-windows-x64.zip",
-  "sha256": "72ed555cf720503c5bbdbc818f5fbff6895f4ecbcca842f3626172e66ed6aefd",
+  "sha256": "2843f508ae2baff9c2ca1398f9e511ed02a3cb4eeacdce5952d2cd0d0bf5198d",
   "releaseNotes": "Fix browser media configuration saves and refresh cached client images after server media updates."
 }
