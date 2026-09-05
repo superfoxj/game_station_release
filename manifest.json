@@ -1,9 +1,9 @@
 {
-  "version": "0.3.54",
+  "version": "0.3.55",
   "releaseDate": "2026-09-05T12:00:00Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.54-windows-x64.zip",
-  "sha256": "bb4349821498485867683b18a5e629948a8f9e9b288ffdcc7030ed977a5f23cb",
-  "releaseNotes": "Automatically rotate game screenshots and videos in the game details view."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.55-windows-x64.zip",
+  "sha256": "ad5fda8e61318cd92867f15d5573d3980a1450e85d7780236e0aecb2536a0a07",
+  "releaseNotes": "Fix screenshot carousel startup after media loading and refresh catalog media automatically."
 }
