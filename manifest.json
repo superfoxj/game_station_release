@@ -1,9 +1,9 @@
 {
-  "version": "0.3.43",
-  "releaseDate": "2026-09-05T02:34:48Z",
+  "version": "0.3.44",
+  "releaseDate": "2026-09-05T04:52:51Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.43-windows-x64.zip",
-  "sha256": "766f61c799014627b7e15751a8cab5b4e805782d4dd519081c91e724cc63d443",
-  "releaseNotes": "Tray-only Windows startup and configurable game cover, background, wide background, and logo media."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.44-windows-x64.zip",
+  "sha256": "8c0d895370b141b788907644688a6dca809c699fe537748db6ca1e01af95283d",
+  "releaseNotes": "Move client actions into the top-right menu, keep update notices at the bottom, and show cached catalog entries while refreshing in the background."
 }
