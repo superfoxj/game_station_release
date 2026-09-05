@@ -1,9 +1,9 @@
 {
-  "version": "0.3.53",
+  "version": "0.3.54",
   "releaseDate": "2026-09-05T12:00:00Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.53-windows-x64.zip",
-  "sha256": "2843f508ae2baff9c2ca1398f9e511ed02a3cb4eeacdce5952d2cd0d0bf5198d",
-  "releaseNotes": "Fix browser media configuration saves and refresh cached client images after server media updates."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.54-windows-x64.zip",
+  "sha256": "bb4349821498485867683b18a5e629948a8f9e9b288ffdcc7030ed977a5f23cb",
+  "releaseNotes": "Automatically rotate game screenshots and videos in the game details view."
 }
