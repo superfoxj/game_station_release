@@ -1,9 +1,9 @@
 {
-  "version": "0.3.74",
-  "releaseDate": "2026-09-06T13:53:56Z",
+  "version": "0.3.76",
+  "releaseDate": "2026-09-06T14:23:41Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.74-windows-x64.zip",
-  "sha256": "bb9e451ff363124a65e0f3ca498c1ed686c0c3d2af3f9609855dfcc593a0cd10",
-  "releaseNotes": "修正工具命令预览：使用完整的绝对 LEProc.exe 路径，并继续为游戏路径加引号。"
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.76-windows-x64.zip",
+  "sha256": "2bd6478cefd2cd065b9d63af4d9f67b25b16e89b5cbe712f142c15a29d643fc0",
+  "releaseNotes": "Use the native Rust launch renderer for every game-settings preview, keep absolute Locale Emulator tool paths in coordinated launches, and persist all native client operations including saves, refreshes, previews, failures, and launches."
 }
