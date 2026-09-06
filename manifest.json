@@ -1,9 +1,9 @@
 {
-  "version": "0.3.67",
-  "releaseDate": "2026-09-06T04:34:31.6900345Z",
+  "version": "0.3.69",
+  "releaseDate": "2026-09-06T10:14:52Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.67-windows-x64.zip",
-  "sha256": "392cdff2b4707ffaca8010f965c0d06f67d50a7b3f300299443d23e5aa30e34b",
-  "releaseNotes": "Add Run with game tool selection, native executable picker, cloud-saved launch settings, and viewport-aware hover previews."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.69-windows-x64.zip",
+  "sha256": "3a6ee0c5d01bce8833d02e448934feed2b51192fa96aab62667b0cdabe8a8dbc",
+  "releaseNotes": "Fix relative game asset and audio paths by launching from the executable directory."
 }
