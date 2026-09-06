@@ -1,9 +1,9 @@
 {
-  "version": "0.3.69",
-  "releaseDate": "2026-09-06T10:14:52Z",
-  "mandatory": false,
-  "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.69-windows-x64.zip",
-  "sha256": "3a6ee0c5d01bce8833d02e448934feed2b51192fa96aab62667b0cdabe8a8dbc",
-  "releaseNotes": "Fix relative game asset and audio paths by launching from the executable directory."
+    "version":  "0.3.70",
+    "releaseDate":  "2026-09-06T12:06:27Z",
+    "mandatory":  false,
+    "packageType":  "patch",
+    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.70-windows-x64.zip",
+    "sha256":  "a1cf04789a8fbd8464c4b1089d6c3e9b2a516f945d17a9ae3fe034b78bdf7d32",
+    "releaseNotes":  "Fixed Run with game launch ownership so Locale Emulator can launch Japanese games without a second non-localized process."
 }
