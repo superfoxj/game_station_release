@@ -1,9 +1,9 @@
 {
-    "version":  "0.3.71",
-    "releaseDate":  "2026-09-06T12:43:38Z",
-    "mandatory":  false,
-    "packageType":  "patch",
-    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.71-windows-x64.zip",
-    "sha256":  "e835507bf7af689f7b7ed379d7579d4255aed45461c9166784964f6623033245",
-    "releaseNotes":  "Fixed the client launch-override sync URL so saving game tool settings no longer returns HTTP 404."
+  "version": "0.3.72",
+  "releaseDate": "2026-09-06T13:18:26Z",
+  "mandatory": false,
+  "packageType": "patch",
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.72-windows-x64.zip",
+  "sha256": "01cca9eda7e068aa3619c90df4ee2550961e04a1531f41e43d12fb3645aa9d65",
+  "releaseNotes": "固定 Tool run with game 为工具与游戏协同启动；显示真实命令并在 Settings LOG 记录启动命令。"
 }
