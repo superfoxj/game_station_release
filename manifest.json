@@ -1,9 +1,9 @@
 {
-  "version": "0.3.85",
-  "releaseDate": "2026-09-06T16:01:29Z",
+  "version": "0.3.86",
+  "releaseDate": "2026-09-06T16:08:58Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.85-windows-x64.zip",
-  "sha256": "f33f872f36f0ac9d673f937d62ebb3a10a64356c61e2f49f541b9e591bb54a6b",
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.86-windows-x64.zip",
+  "sha256": "7ec3d02ad74812c88d96e73145ed714bc368d2ffaa46b5bbc5ad8afa8e3dc848",
   "releaseNotes": "修复 Windows 工具协同启动：使用真实绝对路径和正确的 cmd 参数传递，Locale Emulator 可实际启动 ShirenV2；补齐进程输出/退出日志、最终命令预览和全客户端自动化控件标识。"
 }
