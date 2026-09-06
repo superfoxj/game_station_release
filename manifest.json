@@ -1,9 +1,9 @@
 {
-  "version": "0.3.76",
-  "releaseDate": "2026-09-06T14:23:41Z",
+  "version": "0.3.77",
+  "releaseDate": "2026-09-06T14:43:58Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.76-windows-x64.zip",
-  "sha256": "2bd6478cefd2cd065b9d63af4d9f67b25b16e89b5cbe712f142c15a29d643fc0",
-  "releaseNotes": "Use the native Rust launch renderer for every game-settings preview, keep absolute Locale Emulator tool paths in coordinated launches, and persist all native client operations including saves, refreshes, previews, failures, and launches."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.77-windows-x64.zip",
+  "sha256": "ce51458193f7084bd73eb27637bcb62e99b5966dd10f2c9d1ebbf1e0ddb302a2",
+  "releaseNotes": "Normalize Windows extended canonical paths before rendering and executing Locale Emulator commands; record the exact preview command and label background polling in the client log."
 }
