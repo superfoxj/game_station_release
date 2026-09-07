@@ -5,5 +5,4 @@
   "packageType": "patch",
   "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.108-windows-x64.zip",
   "sha256": "2c05113d95b7fde9395931b7195dc1b187093e97babcdfa4858f2bb9f1478093",
-  "releaseNotes": "Fixed cloud-save status refresh without reloading the page; unified GAME/ASGAME/TOOL package upload flow and arbitrary package links."
 }
