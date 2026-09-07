@@ -1,9 +1,9 @@
 {
-  "version": "0.3.91",
-  "releaseDate": "2026-09-07T07:34:47Z",
+  "version": "0.3.108",
+  "releaseDate": "2026-09-07T14:54:59Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.91-windows-x64.zip",
-  "sha256": "508650f90dc0edfa14856e8a53b7c60ad93a15e14ab1c5f668f6321a7c86f954",
-  "releaseNotes": "Added game file browsing and cloud-save synchronization status for installed games."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.108-windows-x64.zip",
+  "sha256": "2c05113d95b7fde9395931b7195dc1b187093e97babcdfa4858f2bb9f1478093",
+  "releaseNotes": "Fixed cloud-save status refresh without reloading the page; unified GAME/ASGAME/TOOL package upload flow and arbitrary package links."
 }
