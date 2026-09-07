@@ -1,9 +1,9 @@
 {
-  "version": "0.3.92",
-  "releaseDate": "2026-09-07T08:18:19Z",
-  "mandatory": false,
-  "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.92-windows-x64.zip",
-  "sha256": "e4fb7c3c22b9fbd578d944fb29044fc78d48d8e9047e743787c49dee9021c3ef",
-  "releaseNotes": "Added multi-part game packages, per-component version selection, optional auxiliary installation, and safe Windows package links."
+    "version":  "0.3.103",
+    "releaseDate":  "2026-09-07T10:43:06Z",
+    "mandatory":  false,
+    "packageType":  "patch",
+    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.103-windows-x64.zip",
+    "sha256":  "aac6f719f7283e3e678ad6b21c94476d1139e3c064cf4413ca4aae56a3182a91",
+    "releaseNotes":  "Multi-part game packages, selectable component versions and safe Windows package file links."
 }
