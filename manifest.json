@@ -1,9 +1,9 @@
 {
   "version": "0.3.106",
-  "releaseDate": "2026-09-07T12:05:16Z",
+  "releaseDate": "2026-09-07T12:11:24Z",
   "mandatory": false,
   "packageType": "patch",
   "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.106-windows-x64.zip",
-  "sha256": "23ef487ecf7c2a23320a3e0c4733b6ab3c68c19f22616ede6849956586bb113f",
+  "sha256": "921e1aab15519d046a69254d0f516ac1a5b67b3827ed52ae40c6474d4b587384",
   "releaseNotes": "Compact main navigation: Menu is now a peer tab beside Games and Tools."
 }
