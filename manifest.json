@@ -1,9 +1,9 @@
 {
-    "version":  "0.3.105",
-    "releaseDate":  "2026-09-07T11:12:18Z",
-    "mandatory":  false,
-    "packageType":  "patch",
-    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.105-windows-x64.zip",
-    "sha256":  "973a31416beeb998862e839c90d1c4f8f1cad8093a47c2d855a21feffeeb776f",
-    "releaseNotes":  "Multi-part game packages, selectable component versions, safe Windows package links, and full link cleanup on game deletion."
+  "version": "0.3.106",
+  "releaseDate": "2026-09-07T12:05:16Z",
+  "mandatory": false,
+  "packageType": "patch",
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.106-windows-x64.zip",
+  "sha256": "23ef487ecf7c2a23320a3e0c4733b6ab3c68c19f22616ede6849956586bb113f",
+  "releaseNotes": "Compact main navigation: Menu is now a peer tab beside Games and Tools."
 }
