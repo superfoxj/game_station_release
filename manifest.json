@@ -1,9 +1,9 @@
 {
-  "version": "0.3.111",
-  "releaseDate": "2026-09-07T16:28:08Z",
+  "version": "0.3.112",
+  "releaseDate": "2026-09-08T06:18:08Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.111-windows-x64.zip",
-  "sha256": "c37aca64dc407b20d9778788feeabe6737dc0111d04dfcd0bb4da729e2feea9e",
-  "releaseNotes": "Added selective multi-package game upgrades by package and published version."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.112-windows-x64.zip",
+  "sha256": "69b9163fcc6a569a9ee23f2102caf32b81036cba22b6f172c64ac6d160aa591e",
+  "releaseNotes": "Fixed production packaging so E2E binaries cannot be published."
 }
