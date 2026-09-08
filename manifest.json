@@ -3,7 +3,7 @@
   "releaseDate": "2026-09-08T13:09:30Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://raw.githubusercontent.com/superfoxj/game_station_release/main/game-station-pcwin-0.3.120-windows-x64.zip",
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.120-windows-x64.zip",
   "sha256": "b123afd3008c8d2773603d5c95554f9d5f839fd4640199d51fef08bba903ce98",
   "releaseNotes": "Fix launch availability for saved game files and install newly added auxiliary packages."
 }
