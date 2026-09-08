@@ -1,9 +1,9 @@
 {
-  "version": "0.3.113",
-  "releaseDate": "2026-09-08T07:32:23Z",
+  "version": "0.3.114",
+  "releaseDate": "2026-09-08T08:00:04Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.113-windows-x64.zip",
-  "sha256": "b577f2850a2928dd1f192b0a285309d5582506f74271f34e930dc053fb1bfa3a",
-  "releaseNotes": "Added direct context-menu launch, package version display, and auxiliary package link selection."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.114-windows-x64.zip",
+  "sha256": "4d382103d4facef0d924ca47df28020bdb2ef54e5052aa47f135c7310efeadfc",
+  "releaseNotes": "Fixed auxiliary package links to target the package payload instead of the internal depot container."
 }
