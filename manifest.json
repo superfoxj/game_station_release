@@ -1,9 +1,9 @@
 {
-  "version": "0.3.122",
-  "releaseDate": "2026-09-08T14:24:31Z",
+  "version": "0.3.123",
+  "releaseDate": "2026-09-08T14:45:01Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.122-windows-x64.zip",
-  "sha256": "54afa5bf872a7e1fa124a3daef5d200cfc14a6d7ab83e584c0ba4c25d1a539d7",
-  "releaseNotes": "Fix locked installation handling, prevent package links to missing auxiliary packages, and make MODIFY package status and reinstall actions explicit."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.123-windows-x64.zip",
+  "sha256": "509505f3ff9e0d3883366e948e3eb0b52a014a1e4ca5cdb75b8f1faa6b2d300d",
+  "releaseNotes": "Link single-file auxiliary packages directly to the original file instead of the component directory."
 }
