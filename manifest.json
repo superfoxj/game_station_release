@@ -1,9 +1,9 @@
 {
-  "version": "0.3.116",
-  "releaseDate": "2026-09-08T10:17:05Z",
+  "version": "0.3.118",
+  "releaseDate": "2026-09-08T11:55:37Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.116-windows-x64.zip",
-  "sha256": "b96cc614dd53fd7d1a84550794fec13425d3453c8d5b02a38253e010cca8b0d3",
-  "releaseNotes": "Keep installed games visible in grayscale after server-side deletion."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.118-windows-x64.zip",
+  "sha256": "e6c014202873da911a9d13b21159f5fe7c7d3c8ce00a8733a6780f5509c4e22b",
+  "releaseNotes": "Add external tool selection for ordinary GAME settings and fix Pinball Magic EXE/LNK selection."
 }
