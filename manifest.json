@@ -1,9 +1,9 @@
 {
-  "version": "0.3.125",
-  "releaseDate": "2026-09-09T09:08:54Z",
+  "version": "0.3.127",
+  "releaseDate": "2026-09-09T10:05:00Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.125-windows-x64.zip",
-  "sha256": "58f95ca1082e105c33814c325783a0b34bfa761bbc95d328d1da127218d704e1",
-  "releaseNotes": "Add server-driven install and launch templates with typed path and tool settings, automatic auxiliary linking, and extract-copy installation."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.127-windows-x64.zip",
+  "sha256": "c5f73335f20bafa28bab6081aa3e1250d8d5447bd17cf5f8f49a19dc9854aa30",
+  "releaseNotes": "Fix deferred template setting validation and show missing server-driven settings per game before install or launch."
 }
