@@ -4,6 +4,6 @@
   "mandatory": false,
   "packageType": "patch",
   "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.128-windows-x64.zip",
-  "sha256": "4210aa6d9a00cc917f117cc6ada7d7176e3da8c639b3f9b73052cf9209b4e80",
+  "sha256": "4210aa6d9a00cc917f117cc6adaa7d7176e3da8c639b3f9b73052cf9209b4e80",
   "releaseNotes": "Unify server-driven game install and launch templates, support optional typed tools, and create multiple auxiliary-package links."
 }
