@@ -1,9 +1,9 @@
 {
-  "version": "0.3.128",
-  "releaseDate": "2026-09-09T12:00:00Z",
+  "version": "0.3.129",
+  "releaseDate": "2026-09-11T15:35:18Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.128-windows-x64.zip",
-  "sha256": "4210aa6d9a00cc917f117cc6adaa7d7176e3da8c639b3f9b73052cf9209b4e80",
-  "releaseNotes": "Unify server-driven game install and launch templates, support optional typed tools, and create multiple auxiliary-package links."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.129-windows-x64.zip",
+  "sha256": "e3c09f515492f634153012cdbe5e5a5d9b00dccf9881a6f2011a2b8e2d1f8dca",
+  "releaseNotes": "Fix package-scoped link execution and server-side Run script precedence."
 }
