@@ -1,9 +1,9 @@
 {
-  "version": "0.3.132",
-  "releaseDate": "2026-09-15T07:23:20Z",
+  "version": "0.3.133",
+  "releaseDate": "2026-09-15T12:22:53Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.132-windows-x64.zip",
-  "sha256": "297f541197afc35c1891ea2c3819152a6593e36e458b06d5ee118467267d4b78",
-  "releaseNotes": "Tool 模式支持在客户端 Game Settings 修改并保存 Run script；服务端 Tool 模式隐藏无效的 Arguments。"
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.133-windows-x64.zip",
+  "sha256": "c677319c5b44c43a25e5efff57e1477761ea6b540ff88601cbb91555771a4799",
+  "releaseNotes": "Tool 模式的 $$GAMEFULLNAME$$ 在主安装包只有一个实际文件时使用实际文件，忽略模板 Executable file。"
 }
