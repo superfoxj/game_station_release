@@ -1,9 +1,9 @@
 {
-  "version": "0.3.133",
-  "releaseDate": "2026-09-15T12:22:53Z",
+  "version": "0.3.134",
+  "releaseDate": "2026-09-15T13:25:44Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.133-windows-x64.zip",
-  "sha256": "c677319c5b44c43a25e5efff57e1477761ea6b540ff88601cbb91555771a4799",
-  "releaseNotes": "Tool 模式的 $$GAMEFULLNAME$$ 在主安装包只有一个实际文件时使用实际文件，忽略模板 Executable file。"
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.134-windows-x64.zip",
+  "sha256": "7d3b117188356edeefa70f3cd5752ff88d030dc3fdef3150ba21e83a86699b32",
+  "releaseNotes": "File Links 支持按安装包顺序匹配，自动联结文件和文件夹；缺少设置时在 Game Settings 提示。"
 }
