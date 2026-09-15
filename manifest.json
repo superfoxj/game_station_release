@@ -1,9 +1,9 @@
 {
-  "version": "0.3.131",
-  "releaseDate": "2026-09-15T04:39:07Z",
+  "version": "0.3.132",
+  "releaseDate": "2026-09-15T07:23:20Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.131-windows-x64.zip",
-  "sha256": "07911f9c36c8ee302cf7d022e446c4a9557c3c838ecc183cb9ed9e977f3a08bc",
-  "releaseNotes": "Open the missing default executable chooser at the installed main depot directory."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.132-windows-x64.zip",
+  "sha256": "297f541197afc35c1891ea2c3819152a6593e36e458b06d5ee118467267d4b78",
+  "releaseNotes": "Tool 模式支持在客户端 Game Settings 修改并保存 Run script；服务端 Tool 模式隐藏无效的 Arguments。"
 }
