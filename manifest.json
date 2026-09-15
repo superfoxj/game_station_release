@@ -1,9 +1,9 @@
 {
-  "version": "0.3.135",
-  "releaseDate": "2026-09-15T13:50:25Z",
+  "version": "0.3.136",
+  "releaseDate": "2026-09-15T15:17:50Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.135-windows-x64.zip",
-  "sha256": "2093432138bb55050766b2775e1f1eba9046facca1ec2d841fde62960d47b118",
-  "releaseNotes": "更新下载超时默认改为60秒，并可在客户端 Settings 中修改。"
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.136-windows-x64.zip",
+  "sha256": "f5790bb8f96bf8b7b255f83243ae3af7d2c3bca95df1788f5cec1fd80036b3d7",
+  "releaseNotes": "Fixes single-file game launch resolution, source-package file-link names, and installation completion reporting."
 }
