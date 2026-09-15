@@ -1,9 +1,9 @@
 {
-  "version": "0.3.130",
-  "releaseDate": "2026-09-15T04:13:07Z",
+  "version": "0.3.131",
+  "releaseDate": "2026-09-15T04:39:07Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.130-windows-x64.zip",
-  "sha256": "ef16c88e288343120fde635150b4b78610275a18a3424e359e48638bc912e45b",
-  "releaseNotes": "Invalidate stale client launch overrides after server template changes and resolve package links from the recorded uploaded top-level path."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.131-windows-x64.zip",
+  "sha256": "07911f9c36c8ee302cf7d022e446c4a9557c3c838ecc183cb9ed9e977f3a08bc",
+  "releaseNotes": "Open the missing default executable chooser at the installed main depot directory."
 }
