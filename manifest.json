@@ -1,9 +1,9 @@
 {
-  "version": "0.3.137",
-  "releaseDate": "2026-09-16T03:28:30Z",
+  "version": "0.3.138",
+  "releaseDate": "2026-09-16T03:52:51Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.137-windows-x64.zip",
-  "sha256": "2bd00253fff2f073b7ebbb14c90924843da41ee03120202e43cb977d3dfd7b27",
-  "releaseNotes": "Fix server-persisted primary upload file resolution for single-file games with auxiliary links."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.138-windows-x64.zip",
+  "sha256": "ad3ac79ebf5bcc9e96b3c69872940d1aca2df0af9fdefe0198f96943d9a70730",
+  "releaseNotes": "Show saved external tools alongside internal tools in the Tools tab with a clear external marker."
 }
