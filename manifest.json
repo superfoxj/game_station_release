@@ -1,9 +1,9 @@
 {
-  "version": "0.3.139",
-  "releaseDate": "2026-09-16T05:39:43Z",
+  "version": "0.3.140",
+  "releaseDate": "2026-09-16T07:16:37Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.139-windows-x64.zip",
-  "sha256": "d4ffcced542cd10ac912d094d34a2bd92f8447abc770dbe89065bee49609b6cf",
-  "releaseNotes": "Preserve empty subdirectories when uploading folders and recreate them during installation."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.140-windows-x64.zip",
+  "sha256": "872804c02a11afba75223f9d13ec3c79e48391c0f9ace310ae2212b85911e0ba",
+  "releaseNotes": "Added client tool Run script settings loaded from the server template."
 }
