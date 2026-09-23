@@ -1,9 +1,9 @@
 {
-  "version": "0.3.147",
-  "releaseDate": "2026-09-23T13:24:30Z",
+  "version": "0.3.148",
+  "releaseDate": "2026-09-23T14:15:42Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.147-windows-x64.zip",
-  "sha256": "4dbe63b113aca7b707e785db65266365e1abd69daf3cf0ee99e8f219541604d7",
-  "releaseNotes": "Treat exact client path variables as cloud-save directories without requiring a trailing slash."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.148-windows-x64.zip",
+  "sha256": "ce11391eec0db1dbe0c3a7f8efb5dc2d239878518a4a38a774cfbb861688cd2c",
+  "releaseNotes": "Add auxiliary package filename prefix variables and required cloud-save path synchronization."
 }
