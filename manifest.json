@@ -1,9 +1,9 @@
 {
-  "version": "0.3.143",
-  "releaseDate": "2026-09-23T00:00:00Z",
+  "version": "0.3.144",
+  "releaseDate": "2026-09-23T09:44:23Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.143-windows-x64.zip",
-  "sha256": "9ab3bb36bbc2ad4fd388cfab2b32c860a22b3ec1f80dfd98cf1bd8bab56c0186",
-  "releaseNotes": "Clarified main and auxiliary package launch variables and added built-in variable suggestions."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.144-windows-x64.zip",
+  "sha256": "e24069b7937bba7f303205d4ea7a2c6d88d749ce78f4c120557bf826d4ac2318",
+  "releaseNotes": "Fixed template link-name variables for the main package and ordered auxiliary packages."
 }
