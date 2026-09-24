@@ -1,9 +1,9 @@
 {
-  "version": "0.3.151",
-  "releaseDate": "2026-09-24T12:59:36Z",
+  "version": "0.3.152",
+  "releaseDate": "2026-09-24T13:00:00Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.151-windows-x64.zip",
-  "sha256": "324af21af07826b90e60bd7685075bb5d6570409837f9a3e9bbe54a24d820f0a",
-  "releaseNotes": "Fix cloud-first save synchronization before game launch and add explicit force-launch confirmation when synchronization cannot complete."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.152-windows-x64.zip",
+  "sha256": "469c65e5c46e157a98e6b49410ee885af2f05e234dd632b9424743d71f6f2b30",
+  "releaseNotes": "Fix cloud-save download when required local save files are missing before game launch."
 }
