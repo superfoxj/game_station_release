@@ -1,9 +1,9 @@
 {
-  "version": "0.3.152",
-  "releaseDate": "2026-09-24T13:00:00Z",
+  "version": "0.3.153",
+  "releaseDate": "2026-09-24T14:03:09Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.152-windows-x64.zip",
-  "sha256": "469c65e5c46e157a98e6b49410ee885af2f05e234dd632b9424743d71f6f2b30",
-  "releaseNotes": "Fix cloud-save download when required local save files are missing before game launch."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.153-windows-x64.zip",
+  "sha256": "e9527120bec36a9ba486a785088872cb1c3aee123e7d2e6152ea3014a1cc3d6a",
+  "releaseNotes": "Add Steam-style cloud status animation and state display."
 }
