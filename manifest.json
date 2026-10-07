@@ -1,9 +1,9 @@
 {
-  "version": "0.3.163",
+  "version": "0.3.164",
   "releaseDate": "2026-10-07T00:00:00Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.163-windows-x64.zip",
-  "sha256": "83962997733f1c72dc70f21f8a79ada9d79366ac26fc58d2a1c71c270caba7d4",
-  "releaseNotes": "Added Steam-style library management with safe cross-library content moves."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.164-windows-x64.zip",
+  "sha256": "1d0dc8b32f5f131c231952bad39fa480d020afb2728f1bc08fbdaca3788ef755",
+  "releaseNotes": "Added Steam-style Storage library management, cached scans, scan progress animation, and safe cross-library content moves."
 }
