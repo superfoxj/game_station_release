@@ -1,9 +1,9 @@
 {
-  "version": "0.3.166",
-  "releaseDate": "2026-10-08T00:00:00Z",
+  "version": "0.3.168",
+  "releaseDate": "2026-10-17T00:00:00Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.166-windows-x64.zip",
-  "sha256": "71123a768c1933cf7f67d85dbd8ecfb841ad0b83a03c11be9c17f8baf51d1730",
-  "releaseNotes": "Added a Steam-style game install dialog with component and version selection, exact download size, target drive free space, shortcut options, install progress, and clearer preflight errors."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.168-windows-x64.zip",
+  "sha256": "7258c03fabf514230d7fc56e7e3fff733f0296c806fee2e29ff76d6396c1cd64",
+  "releaseNotes": "Persistent system-generated host identity across restarts; Windows Internet Settings proxy support for online updates."
 }
