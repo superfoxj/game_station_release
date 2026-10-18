@@ -1,9 +1,9 @@
 {
-  "version": "0.3.170",
-  "releaseDate": "2026-10-17T15:23:52Z",
+  "version": "0.3.171",
+  "releaseDate": "2026-10-18T09:13:58Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.170-windows-x64.zip",
-  "sha256": "d25e556055cf1f892aea61dea567a395e4b7f792d1d6bbe6253556757bfd27a2",
-  "releaseNotes": "Added tray restart and host registration management."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.171-windows-x64.zip",
+  "sha256": "e19ab16be6f3ce31a4341a815b624ee813f8a27d6958e1c30698b2bc3e0348df",
+  "releaseNotes": "PCWIN 0.3.171: cloud-save improvements and online update support."
 }
