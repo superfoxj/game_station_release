@@ -1,9 +1,9 @@
 {
-    "version":  "0.3.175",
-    "releaseDate":  "2026-10-19T10:12:50Z",
+    "version":  "0.3.176",
+    "releaseDate":  "2026-10-19T12:47:39Z",
     "mandatory":  false,
     "packageType":  "patch",
-    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.175-windows-x64.zip",
-    "sha256":  "85ef58a348876687290e607e8f7fde05b07314e3a7ae2d48d14725e1c96ebf90",
-    "releaseNotes":  "PCWIN 0.3.175: account-scoped local settings, offline catalog cache, safer account switching and shared-game access."
+    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.176-windows-x64.zip",
+    "sha256":  "7beb93af9bb002175ecfa58151f9d6600e8c769479d73aa2a1a66749ee5106ca",
+    "releaseNotes":  "PCWIN 0.3.176: in-game screenshot shortcut with automatic upload, private/public screenshots and gallery integration."
 }
