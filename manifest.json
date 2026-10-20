@@ -1,9 +1,9 @@
 {
-    "version":  "0.3.177",
-    "releaseDate":  "2026-10-20T04:03:53Z",
+    "version":  "0.3.178",
+    "releaseDate":  "2026-10-20T05:03:40Z",
     "mandatory":  false,
     "packageType":  "patch",
-    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.177-windows-x64.zip",
-    "sha256":  "70f5a3106edc57cca78325a6b028acc91ba0fa410ddd4a5f8107814557a3e3d0",
-    "releaseNotes":  "PCWIN 0.3.177: screenshot shortcut default Ctrl+Shift+S chosen by pressing keys, on-screen result toast, own screenshots in the game gallery with a marker."
+    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.178-windows-x64.zip",
+    "sha256":  "d3d3a1567914dfd46c1b143d3c156c0e01b7279da9cbb74fc07e474570f448ed",
+    "releaseNotes":  "PCWIN 0.3.178: screenshots capture only the game picture (no title bar or borders) and never include windows drawn on top of the game."
 }
