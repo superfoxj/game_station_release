@@ -1,9 +1,9 @@
 {
-  "version": "0.3.179",
-  "releaseDate": "2026-10-21T04:24:34Z",
+  "version": "0.3.180",
+  "releaseDate": "2026-10-21T09:26:16Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.179-windows-x64.zip",
-  "sha256": "c97a4b1c92301ed4910432034af22c19ce7cb4f252096cf0d89c7ca1be09464c",
-  "releaseNotes": "Game recordings with game audio, private screenshot hover previews, and a complete exit option in the tray menu."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.180-windows-x64.zip",
+  "sha256": "d4dd987be2a7976c41cdfdfa71a31ccf450202d430f93a046436ac10f835235c",
+  "releaseNotes": "Automatic private recording playback, account-scoped media cache reuse, and server media visibility for uninstalled games."
 }
