@@ -1,9 +1,9 @@
 {
-    "version":  "0.3.183",
-    "releaseDate":  "2026-10-29T09:45:49Z",
+    "version":  "0.3.184",
+    "releaseDate":  "2026-10-29T10:23:44Z",
     "mandatory":  false,
     "packageType":  "patch",
-    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.183-windows-x64.zip",
-    "sha256":  "d699a06324c8c8ede5ee360cc9256602d0ae9aff4670ef0310a2a62e02c45b98",
-    "releaseNotes":  "Removes the periodic catalog refresh that reloaded the install dialog, adds a persistent launch failure dialog, validates the server URL and disables autofill on it."
+    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.184-windows-x64.zip",
+    "sha256":  "fcb7b8789767d3f75149a0c8bc88a9c4976df4787f68b69c914b4299d67f9fbb",
+    "releaseNotes":  "Fixes a startup exit when the saved server URL is invalid, adds startup and browser sign-in callback logs, and shows a clear message when a browser approval does not match the active sign-in."
 }
