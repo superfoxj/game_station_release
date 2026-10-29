@@ -1,9 +1,9 @@
 {
-  "version": "0.3.182",
-  "releaseDate": "2026-10-23T14:56:33Z",
-  "mandatory": false,
-  "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.182-windows-x64.zip",
-  "sha256": "6fff7ac659c7dcc6ba6fcb4e51427d18c09cf63b4607493d75158f992bcd2722",
-  "releaseNotes": "Preserved the selected game library during catalog refresh."
+    "version":  "0.3.183",
+    "releaseDate":  "2026-10-29T09:45:49Z",
+    "mandatory":  false,
+    "packageType":  "patch",
+    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.183-windows-x64.zip",
+    "sha256":  "d699a06324c8c8ede5ee360cc9256602d0ae9aff4670ef0310a2a62e02c45b98",
+    "releaseNotes":  "Removes the periodic catalog refresh that reloaded the install dialog, adds a persistent launch failure dialog, validates the server URL and disables autofill on it."
 }
