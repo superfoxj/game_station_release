@@ -1,9 +1,9 @@
 {
-  "version": "0.3.189",
-  "releaseDate": "2026-10-31T14:02:03Z",
+  "version": "0.3.190",
+  "releaseDate": "2026-10-31T14:12:46Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.189-windows-x64.zip",
-  "sha256": "1c82adcd7a5dd780f5136c94f652eb7a9d8515e7254d889b7285c6dadd7f05d2",
-  "releaseNotes": "Fixed Windows Library scanning on network folders."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.190-windows-x64.zip",
+  "sha256": "846cda02956ea291d0c19586fbaafdad435ce32791c6c4edbd023bf05b0946a2",
+  "releaseNotes": "Prevent Windows library moves from replacing or deleting unrelated target content; include filesystem failure stage and paths."
 }
