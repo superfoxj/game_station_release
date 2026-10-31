@@ -1,9 +1,9 @@
 {
-  "version": "0.3.186",
-  "releaseDate": "2026-10-31T11:42:01Z",
+  "version": "0.3.187",
+  "releaseDate": "2026-10-31T11:47:52Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.186-windows-x64.zip",
-  "sha256": "a12a2606bad2833d3120ef2a72702d4f9865abe0fe5d10e148d551833df7ca0c",
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.187-windows-x64.zip",
+  "sha256": "3d3dd68706bf0a996ac08c24144a470dffd7d16205f2c87be931c87dc6109a48",
   "releaseNotes": "Added Safe Launch button: launches games via IShellDispatch2 COM chain as a direct child of explorer.exe, fixing games that only work when launched manually."
 }
