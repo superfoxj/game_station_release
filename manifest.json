@@ -1,9 +1,9 @@
 {
   "version": "0.3.186",
-  "releaseDate": "2026-10-31T10:34:11Z",
+  "releaseDate": "2026-10-31T11:42:01Z",
   "mandatory": false,
   "packageType": "patch",
   "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.186-windows-x64.zip",
-  "sha256": "4acc8e899145ca411a0c744b439df4202076d0c9fb4e7f9a6efa993695ff70dd",
-  "releaseNotes": "Adds on-demand Steam game information and player ratings."
+  "sha256": "a12a2606bad2833d3120ef2a72702d4f9865abe0fe5d10e148d551833df7ca0c",
+  "releaseNotes": "Added Safe Launch button: launches games via IShellDispatch2 COM chain as a direct child of explorer.exe, fixing games that only work when launched manually."
 }
