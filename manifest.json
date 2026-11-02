@@ -1,9 +1,9 @@
 {
-  "releaseNotes": "Move Steam information to the server and refresh it from the client.",
+  "releaseNotes": "Show Steam ALL REVIEWS across all languages and fade the cover with text over it.",
   "mandatory": false,
-  "sha256": "fdad4eea4402f7417ecb6bd50b0683708fa755f0020f3161f511d80210f70ced",
+  "sha256": "1f6e1a064d54e06db28a5df74504d557dc49f5d62a4ca2607dda9e07544a27aa",
   "releaseDate": "2026-11-02T00:00:00Z",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.192-windows-x64.zip",
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.193-windows-x64.zip",
   "packageType": "patch",
-  "version": "0.3.192"
+  "version": "0.3.193"
 }
