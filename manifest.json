@@ -1,9 +1,9 @@
 {
-  "releaseNotes": "Find a game's Steam AppID by name and show Steam Reviews and About This Game.",
-  "mandatory": false,
-  "sha256": "7c49049b6272a9b8c5e6b3523731d41a3ca2eb0fd926f2caca1518a426fd7723",
-  "releaseDate": "2026-11-02T00:00:00Z",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.194-windows-x64.zip",
-  "packageType": "patch",
-  "version": "0.3.194"
+    "version":  "0.3.195",
+    "releaseDate":  "2026-11-02T10:10:54Z",
+    "mandatory":  false,
+    "packageType":  "patch",
+    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.195-windows-x64.zip",
+    "sha256":  "49292d594523f11c0a7d2b5b7e18c0a24a886305391afd0d8a72fbdf7634184e",
+    "releaseNotes":  "Faster game installs: concurrent ordered chunk download, batched small chunks, and fewer disk syncs and progress events."
 }
