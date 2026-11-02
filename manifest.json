@@ -1,9 +1,9 @@
 {
-    "version":  "0.3.195",
-    "releaseDate":  "2026-11-02T10:10:54Z",
-    "mandatory":  false,
-    "packageType":  "patch",
-    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.195-windows-x64.zip",
-    "sha256":  "49292d594523f11c0a7d2b5b7e18c0a24a886305391afd0d8a72fbdf7634184e",
-    "releaseNotes":  "Faster game installs: concurrent ordered chunk download, batched small chunks, and fewer disk syncs and progress events."
+  "releaseNotes": "Steam price, multiple rotating covers and logos with client upload.",
+  "mandatory": false,
+  "sha256": "ac752cc2767d19cd8fdf5e717b680c9d54ef3f86cc97f56d837b5438ba249726",
+  "releaseDate": "2026-11-02T00:00:00Z",
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.196-windows-x64.zip",
+  "packageType": "patch",
+  "version": "0.3.196"
 }
