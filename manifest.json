@@ -1,9 +1,9 @@
 {
-  "releaseNotes": "Show Steam ALL REVIEWS across all languages and fade the cover with text over it.",
+  "releaseNotes": "Find a game's Steam AppID by name and show Steam Reviews and About This Game.",
   "mandatory": false,
-  "sha256": "1f6e1a064d54e06db28a5df74504d557dc49f5d62a4ca2607dda9e07544a27aa",
+  "sha256": "7c49049b6272a9b8c5e6b3523731d41a3ca2eb0fd926f2caca1518a426fd7723",
   "releaseDate": "2026-11-02T00:00:00Z",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.193-windows-x64.zip",
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.194-windows-x64.zip",
   "packageType": "patch",
-  "version": "0.3.193"
+  "version": "0.3.194"
 }
