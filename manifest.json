@@ -1,9 +1,9 @@
 {
-  "version": "0.3.191",
-  "releaseDate": "2026-10-31T17:28:58Z",
+  "releaseNotes": "Move Steam information to the server and refresh it from the client.",
   "mandatory": false,
+  "sha256": "fdad4eea4402f7417ecb6bd50b0683708fa755f0020f3161f511d80210f70ced",
+  "releaseDate": "2026-11-02T00:00:00Z",
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.192-windows-x64.zip",
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.191-windows-x64.zip",
-  "sha256": "b845d5528e9c3e17473dfb12041c6cf8b59a4c4563c1f05d28b6f03b5c8c1a8a",
-  "releaseNotes": "Resolve redirected Windows Documents folders for cloud-save templates."
+  "version": "0.3.192"
 }
