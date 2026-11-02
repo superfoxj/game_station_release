@@ -1,9 +1,9 @@
 {
-  "releaseNotes": "Steam price, multiple rotating covers and logos with client upload.",
+  "releaseNotes": "Show 100 Steam user reviews from all languages with paging.",
   "mandatory": false,
-  "sha256": "ac752cc2767d19cd8fdf5e717b680c9d54ef3f86cc97f56d837b5438ba249726",
+  "sha256": "97e50125f364865e541a314c7f29c97a38c25a7a6b037bde887eca5aa25750d7",
   "releaseDate": "2026-11-02T00:00:00Z",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.196-windows-x64.zip",
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.197-windows-x64.zip",
   "packageType": "patch",
-  "version": "0.3.196"
+  "version": "0.3.197"
 }
