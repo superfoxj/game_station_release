@@ -1,9 +1,9 @@
 {
-    "version":  "0.3.198",
-    "releaseDate":  "2026-11-05T13:48:27Z",
+    "version":  "0.3.199",
+    "releaseDate":  "2026-11-05T14:02:44Z",
     "mandatory":  false,
     "packageType":  "patch",
-    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.198-windows-x64.zip",
-    "sha256":  "b7f44187cd122119059f1f4691edefad463d9bf40afce093c1cf80a69381d121",
-    "releaseNotes":  "Cloud save templates can ignore files above 64 MB instead of failing the sync."
+    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.199-windows-x64.zip",
+    "sha256":  "1c552a32e9528212b99b02785d035fdc2655cf36ff2cff6a85e6bc1c1ecd3284",
+    "releaseNotes":  "Files skipped by the cloud save oversize policy no longer block game launch; they are listed in a notice."
 }
