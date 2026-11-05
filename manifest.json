@@ -1,9 +1,9 @@
 {
-  "releaseNotes": "Show 100 Steam user reviews from all languages with paging.",
-  "mandatory": false,
-  "sha256": "97e50125f364865e541a314c7f29c97a38c25a7a6b037bde887eca5aa25750d7",
-  "releaseDate": "2026-11-02T00:00:00Z",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.197-windows-x64.zip",
-  "packageType": "patch",
-  "version": "0.3.197"
+    "version":  "0.3.198",
+    "releaseDate":  "2026-11-05T13:48:27Z",
+    "mandatory":  false,
+    "packageType":  "patch",
+    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.198-windows-x64.zip",
+    "sha256":  "b7f44187cd122119059f1f4691edefad463d9bf40afce093c1cf80a69381d121",
+    "releaseNotes":  "Cloud save templates can ignore files above 64 MB instead of failing the sync."
 }
