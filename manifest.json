@@ -1,9 +1,9 @@
 {
-  "version": "0.3.201",
-  "releaseDate": "2026-11-07T04:27:15Z",
+  "version": "0.3.202",
+  "releaseDate": "2026-11-07T06:39:31Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.201-windows-x64.zip",
-  "sha256": "41e149841af38762bcf46042a77bf6b74a2b39401545f475ab2da593cb111b95",
-  "releaseNotes": "Fix launch scripts for game paths containing square brackets."
+  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.202-windows-x64.zip",
+  "sha256": "6eb1bd31e6bc08b3c2ab6ace9a1f17218d347d4dcdfd168aeccc091aaf7b6f63",
+  "releaseNotes": "Show library logos and add game pagination, favorites, and newest-first ordering."
 }
