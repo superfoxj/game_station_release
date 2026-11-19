@@ -1,9 +1,9 @@
 {
-  "version": "0.3.203",
-  "releaseDate": "2026-11-07T08:09:53Z",
-  "mandatory": false,
-  "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.203-windows-x64.zip",
-  "sha256": "1d63115f9799c4595f3cd2ade36f06c7858cd0f6e39f76445440253b0166e9e6",
-  "releaseNotes": "Show transparent library logos, manage favorites from the context menu, and restart without elevation after updates."
+    "version":  "0.3.204",
+    "releaseDate":  "2026-11-19T04:02:16Z",
+    "mandatory":  false,
+    "packageType":  "patch",
+    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.204-windows-x64.zip",
+    "sha256":  "111d4a20f30b338700a40677adec51fd78ae3988e57ea333feebb9974091e6d2",
+    "releaseNotes":  "Install dialog: Overwrite existing files option with per-item approval before deleting an existing install location or file link destination."
 }
