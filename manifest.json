@@ -1,9 +1,9 @@
-{
-    "version":  "0.3.204",
-    "releaseDate":  "2026-11-19T04:02:16Z",
+﻿{
+    "version":  "0.3.205",
+    "releaseDate":  "2026-11-21T04:04:32Z",
     "mandatory":  false,
     "packageType":  "patch",
-    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.204-windows-x64.zip",
-    "sha256":  "111d4a20f30b338700a40677adec51fd78ae3988e57ea333feebb9974091e6d2",
-    "releaseNotes":  "Install dialog: Overwrite existing files option with per-item approval before deleting an existing install location or file link destination."
+    "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.205-windows-x64.zip",
+    "sha256":  "b4153fea89a980152b8c8ae1a93bb4064f39126bc01a2ec1a3f8a4ddb9c7601f",
+    "releaseNotes":  "Support Selected COPY (regex) installation mode, including empty source pattern for games referencing external files."
 }
