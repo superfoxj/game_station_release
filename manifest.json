@@ -1,6 +1,6 @@
-﻿{
+{
     "version":  "0.3.205",
-    "releaseDate":  "2026-11-21T04:04:32Z",
+    "releaseDate":  "2026-11-21T04:06:16Z",
     "mandatory":  false,
     "packageType":  "patch",
     "downloadUrl":  "https://github.com/superfoxj/game_station_release/raw/refs/heads/main/game-station-pcwin-0.3.205-windows-x64.zip",
